@@ -7,7 +7,7 @@ from discord import Member, Forbidden
 
 WELCOME_MESSAGE = """Welcome to the server, {username}!
 
-We're so excited that you joined! This is a private channel (only you can see it) where we will help you get started with our community guidelines and rules. Don't delete this channel because we have special plans for it in the future!
+We're so excited that you joined! This is a DM (only you can see it) where we will help you get started with our community guidelines and rules. Don't delete this channel because we have special plans for it in the future!
 
 If you haven't signed up for Gigo go ahead and create and account @ https://gigo.dev/signup
 """
